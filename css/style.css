@@ -22,7 +22,6 @@ body{
     justify-content: right;
     font-family: 'Abel', sans-serif;
     font-size: 18px;
-    
 }
 
 .navbar-miaprinc{
@@ -44,7 +43,7 @@ body{
 }
 
 .navbar-nav{
-    padding-left: 45rem;
+    padding-left: ;
 }
 
 
@@ -130,6 +129,8 @@ body{
 
 .estilo-img{
     margin: 20px 150px;
+    width: 300px;
+    height: 250px;
 }
 
 .iframe-mio{
@@ -216,7 +217,7 @@ body{
 
 
     .titulo-mio2{
-        font-size: 25px
+        font-size: 33px
     }
     
     .h2-actividades{
@@ -243,6 +244,29 @@ body{
         align-items: center;
         padding-left: 0;
     }
+
+    .mi-hotel{
+        font-size: 25px;
+        margin: 8px 50px;
+    }
+
+    .titulo-mapa{
+        font-size: 50px;
+        color: rgb(78, 5, 138);
+        margin-left: 60px;
+    
+     }
+    .h2-mapa{
+        font-size: 39px;
+        margin-left: 35px;
+    }
+    
+    .iframe-mio{
+        width: 600px;
+        height: 350px;
+    
+     }
+     
 }
 
 
